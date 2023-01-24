@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <head>
     <meta charset=" UTF-8">
     <title>PERSONAL INFORMATION</title>
@@ -133,8 +134,8 @@
     
     <hr color="black">
     <p>
-    <a href="hobbies.html"><b> Hobbies</b></a>
-    <a href="contact.html"><b> ContactMe-</b></a>
+    <a href="Hobbies.html"><b> Hobbies</b></a>
+    <a href="Contact.html"><b> ContactMe-</b></a>
     </p>
 </body>
 </html>
