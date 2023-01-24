@@ -134,8 +134,8 @@
     
     <hr color="black">
     <p>
-    <a href="Hobbies.html"><b> Hobbies</b></a>
-    <a href="Contact.html"><b> ContactMe-</b></a>
+    <a href="hobbies.html"><b> Hobbies</b></a>
+    <a href="contact.html"><b> ContactMe-</b></a>
     </p>
 </body>
 </html>
